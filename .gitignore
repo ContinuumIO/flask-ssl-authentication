@@ -1,0 +1,6 @@
+flask-local
+*.pem
+*.crt
+*.key
+*.csr
+*.p12
